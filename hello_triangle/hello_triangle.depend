@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1516202321 source:c:\users\x92897\documents\computer_graphics\computer_graphics\hello_triangle\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"Shader.h"
+	<iostream>
+
+1515617986 source:c:\users\x92897\documents\computer_graphics\computer_graphics\hello_triangle\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1516202637 c:\users\x92897\documents\computer_graphics\computer_graphics\hello_triangle\shader.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1516202660 source:c:\users\x92897\documents\computer_graphics\computer_graphics\hello_triangle\shader.cpp
+	"Shader.h"
+
