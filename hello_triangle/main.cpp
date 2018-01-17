@@ -97,3 +97,4 @@ int main()
     glDeleteShader(vertexShader);
     glDeleteShader(fragmentShader);
 }
+herp;
